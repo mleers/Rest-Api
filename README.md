@@ -9,7 +9,7 @@ Postman was used to test CRUD functionality.
 
 Notice: This rest API connects to an external database and therefore uses a personalized connection string.  If you want to see this project in action, you need to connect a mongodb databse using your string.  It should look like:
 
-(mongodb+srv://<yourusername>:<password>@clusterName-lzb4e.azure.mongodb.net/projectName?retryWrites=true&w=majority)
+(mongodb+srv://\<yourusername>:\<password>@clusterName-lzb4e.azure.mongodb.net/projectName?retryWrites=true&w=majority)
 
 
 ## The following endpoints are available
